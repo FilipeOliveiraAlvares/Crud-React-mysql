@@ -1,0 +1,3 @@
+# devStart 
+
+-- Comando para rodar 
